@@ -1,6 +1,6 @@
 # SHVhbmdqeg.github.io
 
-#[网页](https://shvhbmdqeg.github.io/)
+# [网页主页](https://shvhbmdqeg.github.io/)
 
-#[主页](https://github.com/SHVhbmdqeg)
+# [Github主页](https://github.com/SHVhbmdqeg)
 
